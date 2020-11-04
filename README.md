@@ -5,7 +5,7 @@
 This is a project completed for the course Software Methodology. It is a made up database of banking information, capable of being filled with information inputted by the user. It stores account data, can remove accounts, can display account data, can deposit and withdraw from accounts, and can import account data from a text file. It runs with a JavaFX GUI. 
 
 ## Screenshots
-
+See screenshots folder.
 
 ## Input Text File Formatting
 
